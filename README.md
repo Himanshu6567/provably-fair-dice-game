@@ -42,7 +42,7 @@ A simple provably fair dice game where players can bet and roll a dice to win or
 1.  Clone the repository:
 
     ```sh
-    git clone https://github.com/himanshu67/provably-fair-dice-game.git
+    git clone https://github.com/himanshu6567/provably-fair-dice-game.git
     cd provably-fair-dice-game
 
     ```
